@@ -4,8 +4,10 @@
 [![Verification Tests](https://img.shields.io/badge/Textbook%20Verification-Passed%20(0.019%25%20Error)-10b981?style=for-the-badge&logo=checkmarx)](https://github.com/sumitssr123/softcmoputing)
 [![License: MIT](https://img.shields.io/badge/License-MIT-38bdf8?style=for-the-badge)](LICENSE)
 [![GitHub Pages](https://img.shields.io/badge/Deploy-GitHub%20Pages-0284c7?style=for-the-badge&logo=github)](https://sumitssr123.github.io/softcmoputing/)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/sumitssr123/softcmoputing)
 
-> **Live Deployment:** [https://sumitssr123.github.io/softcmoputing/](https://sumitssr123.github.io/softcmoputing/)  
+> **Live Deployment (Render):** [https://softcmoputing.onrender.com/](https://softcmoputing.onrender.com/)  
+> **Live Deployment (GitHub Pages):** [https://sumitssr123.github.io/softcmoputing/](https://sumitssr123.github.io/softcmoputing/)  
 > **GitHub Repository:** [https://github.com/sumitssr123/softcmoputing](https://github.com/sumitssr123/softcmoputing)
 
 ---
