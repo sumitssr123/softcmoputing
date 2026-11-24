@@ -6,7 +6,7 @@
 [![GitHub Pages](https://img.shields.io/badge/Deploy-GitHub%20Pages-0284c7?style=for-the-badge&logo=github)](https://sumitssr123.github.io/softcmoputing/)
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/sumitssr123/softcmoputing)
 
-> **Live Deployment (Render):** [https://softcmoputing-5q0f.onrender.com/](https://softcmoputing-5q0f.onrender.com/)  
+> **Live Deployment (Render):** [https://softcmoputing.onrender.com/](https://softcmoputing.onrender.com/)  
 > **Live Deployment (GitHub Pages):** [https://sumitssr123.github.io/softcmoputing/](https://sumitssr123.github.io/softcmoputing/)  
 > **GitHub Repository:** [https://github.com/sumitssr123/softcmoputing](https://github.com/sumitssr123/softcmoputing)
 
